@@ -1,0 +1,110 @@
+{
+  "mod_elements": [
+    {
+      "name": "NameTag",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "name_tag",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/name_tag.json"
+        ]
+      },
+      "path": "~/Recipe"
+    },
+    {
+      "name": "CopperNugget",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_nugget",
+      "metadata": {
+        "files": [
+          "src/main/java/new_recipes/item/CopperNuggetItem.java",
+          "src/main/resources/assets/new_recipes/models/item/copper_nugget.json"
+        ]
+      },
+      "path": "~/Item"
+    },
+    {
+      "name": "CopperNuggetRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_nugget_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/copper_nugget.json"
+        ]
+      },
+      "path": "~/Recipe"
+    },
+    {
+      "name": "CopperIngotFromNuggets",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_ingot_from_nuggets",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/copper_ingot_from_nuggets.json"
+        ]
+      },
+      "path": "~/Recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "ITEMS:minecraft:metal_nuggets": [
+      "Items.IRON_NUGGET",
+      "Items.GOLD_NUGGET",
+      "CUSTOM:CopperNugget"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item.new_recipes.copper_nugget": "Copper Nugget"
+    },
+    "zh_cn": {
+      "item.new_recipes.copper_nugget": "铜粒"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Recipe",
+        "children": []
+      },
+      {
+        "name": "Item",
+        "children": []
+      },
+      {
+        "name": "Block",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "new_recipes",
+    "modName": "Liu\u0027s New Recipes",
+    "version": "1.0",
+    "description": "为游戏增加了新版配方",
+    "author": "Lxh2014",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "By Lxh2014",
+    "modElementsPackage": "new_recipes"
+  },
+  "mcreatorVersion": 202500113416
+}
