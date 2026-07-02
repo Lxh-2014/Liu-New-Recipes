@@ -52,6 +52,33 @@
         ]
       },
       "path": "~/Recipe"
+    },
+    {
+      "name": "Lead",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/lead.json"
+        ]
+      },
+      "path": "~/Recipe"
+    },
+    {
+      "name": "CopperShovel",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_shovel",
+      "metadata": {
+        "files": [
+          "src/main/java/new_recipes/item/CopperShovelItem.java",
+          "src/main/resources/assets/new_recipes/models/item/copper_shovel.json"
+        ]
+      },
+      "path": "~/Item"
     }
   ],
   "variable_elements": [],
@@ -61,14 +88,19 @@
       "Items.IRON_NUGGET",
       "Items.GOLD_NUGGET",
       "CUSTOM:CopperNugget"
+    ],
+    "ITEMS:minecraft:shovels": [
+      "~CUSTOM:CopperShovel"
     ]
   },
   "tab_element_order": {},
   "language_map": {
     "en_us": {
+      "item.new_recipes.copper_shovel": "Copper Shovel",
       "item.new_recipes.copper_nugget": "Copper Nugget"
     },
     "zh_cn": {
+      "item.new_recipes.copper_shovel": "铜锹",
       "item.new_recipes.copper_nugget": "铜粒"
     }
   },

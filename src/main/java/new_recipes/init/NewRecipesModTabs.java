@@ -23,6 +23,8 @@ public class NewRecipesModTabs {
 	public static void buildTabContentsVanilla(BuildCreativeModeTabContentsEvent tabData) {
 		if (tabData.getTabKey() == CreativeModeTabs.INGREDIENTS) {
 			tabData.accept(NewRecipesModItems.COPPER_NUGGET.get());
+		} else if (tabData.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES) {
+			tabData.accept(NewRecipesModItems.COPPER_SHOVEL.get());
 		}
 	}
 }
