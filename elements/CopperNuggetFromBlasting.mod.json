@@ -1,0 +1,22 @@
+{
+  "_fv": 77,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.1,
+    "cookingTime": 100,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "TAG:extended_tag:copper_smelting"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:CopperNugget"
+    },
+    "name": "copper_nugget_from_blasting",
+    "namespace": "minecraft"
+  }
+}

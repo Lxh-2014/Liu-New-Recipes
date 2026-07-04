@@ -1,0 +1,22 @@
+{
+  "_fv": 77,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.1,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "TAG:extended_tag:copper_smelting"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:CopperNugget"
+    },
+    "name": "copper_nugget_from_smelting",
+    "namespace": "minecraft"
+  }
+}

@@ -1,0 +1,446 @@
+{
+  "mod_elements": [
+    {
+      "name": "NameTag",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "name_tag",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/name_tag.json"
+        ]
+      },
+      "path": "~/Recipe"
+    },
+    {
+      "name": "CopperNugget",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_nugget",
+      "metadata": {
+        "files": [
+          "src/main/java/liu_new_recipes/item/CopperNuggetItem.java",
+          "src/main/resources/assets/liu_new_recipes/models/item/copper_nugget.json"
+        ]
+      },
+      "path": "~/Item"
+    },
+    {
+      "name": "CopperNuggetRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_nugget_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/copper_nugget.json"
+        ]
+      },
+      "path": "~/Recipe"
+    },
+    {
+      "name": "CopperIngotFromNuggets",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_ingot_from_nuggets",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/copper_ingot_from_nuggets.json"
+        ]
+      },
+      "path": "~/Recipe"
+    },
+    {
+      "name": "Lead",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/lead.json"
+        ]
+      },
+      "path": "~/Recipe"
+    },
+    {
+      "name": "CopperShovel",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_shovel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/liu_new_recipes/models/item/copper_shovel.json",
+          "src/main/java/liu_new_recipes/item/CopperShovelItem.java"
+        ]
+      },
+      "path": "~/Item"
+    },
+    {
+      "name": "CopperPickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/liu_new_recipes/models/item/copper_pickaxe.json",
+          "src/main/java/liu_new_recipes/item/CopperPickaxeItem.java"
+        ]
+      },
+      "path": "~/Item"
+    },
+    {
+      "name": "CopperShovelRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_shovel_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/copper_shovel.json"
+        ]
+      },
+      "path": "~/Recipe"
+    },
+    {
+      "name": "CopperPickaxeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_pickaxe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/copper_pickaxe.json"
+        ]
+      },
+      "path": "~/Recipe"
+    },
+    {
+      "name": "CopperAxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_axe",
+      "metadata": {
+        "files": [
+          "src/main/java/liu_new_recipes/item/CopperAxeItem.java",
+          "src/main/resources/assets/liu_new_recipes/models/item/copper_axe.json"
+        ]
+      },
+      "path": "~/Item"
+    },
+    {
+      "name": "CopperHoe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_hoe",
+      "metadata": {
+        "files": [
+          "src/main/java/liu_new_recipes/item/CopperHoeItem.java",
+          "src/main/resources/assets/liu_new_recipes/models/item/copper_hoe.json"
+        ]
+      },
+      "path": "~/Item"
+    },
+    {
+      "name": "CopperSword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_sword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/liu_new_recipes/models/item/copper_sword.json",
+          "src/main/java/liu_new_recipes/item/CopperSwordItem.java"
+        ]
+      },
+      "path": "~/Item"
+    },
+    {
+      "name": "CopperAxeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_axe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/copper_axe.json"
+        ]
+      },
+      "path": "~/Recipe"
+    },
+    {
+      "name": "CopperAxeAnotherRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_axe_another_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/copper_axe_another_recipe.json"
+        ]
+      },
+      "path": "~/Recipe"
+    },
+    {
+      "name": "CopperHoeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_hoe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/copper_hoe.json"
+        ]
+      },
+      "path": "~/Recipe"
+    },
+    {
+      "name": "CopperHoeAnotherRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_hoe_another_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/copper_hoe_another_recipe.json"
+        ]
+      },
+      "path": "~/Recipe"
+    },
+    {
+      "name": "CopperSwordRecipes",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_sword_recipes",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/copper_sword.json"
+        ]
+      },
+      "path": "~/Recipe"
+    },
+    {
+      "name": "Copper",
+      "type": "armor",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper",
+      "metadata": {
+        "files": [
+          "src/main/java/liu_new_recipes/item/CopperItem.java",
+          "src/main/resources/assets/liu_new_recipes/models/item/copper_boots.json",
+          "src/main/resources/assets/liu_new_recipes/models/item/copper_chestplate.json",
+          "src/main/resources/assets/liu_new_recipes/models/item/copper_helmet.json",
+          "src/main/resources/assets/liu_new_recipes/models/item/copper_leggings.json"
+        ]
+      },
+      "path": "~/Item"
+    },
+    {
+      "name": "CopperHelmet",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_helmet",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/copper_helmet.json"
+        ]
+      },
+      "path": "~/Recipe"
+    },
+    {
+      "name": "CopperChestplate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_chestplate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/copper_chestplate.json"
+        ]
+      },
+      "path": "~/Recipe"
+    },
+    {
+      "name": "CopperLeggings",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_leggings",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/copper_leggings.json"
+        ]
+      },
+      "path": "~/Recipe"
+    },
+    {
+      "name": "CopperBoots",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_boots",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/copper_boots.json"
+        ]
+      },
+      "path": "~/Recipe"
+    },
+    {
+      "name": "CopperNuggetFromBlasting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_nugget_from_blasting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/copper_nugget_from_blasting.json"
+        ]
+      },
+      "path": "~/Recipe"
+    },
+    {
+      "name": "CopperNuggetFromSmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_nugget_from_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/copper_nugget_from_smelting.json"
+        ]
+      },
+      "path": "~/Recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "item.armor.equip_copper",
+      "files": [
+        "equip_copper1",
+        "equip_copper2",
+        "equip_copper3",
+        "equip_copper4",
+        "equip_copper5",
+        "equip_copper6"
+      ],
+      "category": "player",
+      "subtitle": "铜盔甲：哐咚"
+    }
+  ],
+  "tag_elements": {
+    "ITEMS:minecraft:pickaxes": [
+      "~CUSTOM:CopperPickaxe"
+    ],
+    "ITEMS:minecraft:hoes": [
+      "~CUSTOM:CopperHoe"
+    ],
+    "ITEMS:minecraft:metal_nuggets": [
+      "Items.IRON_NUGGET",
+      "Items.GOLD_NUGGET",
+      "CUSTOM:CopperNugget"
+    ],
+    "ITEMS:minecraft:shovels": [
+      "~CUSTOM:CopperShovel"
+    ],
+    "ITEMS:minecraft:swords": [
+      "~CUSTOM:CopperSword"
+    ],
+    "ITEMS:minecraft:axes": [
+      "~CUSTOM:CopperAxe"
+    ],
+    "ITEMS:extended_tag:copper_smelting": [
+      "CUSTOM:Copper.boots",
+      "CUSTOM:Copper.body",
+      "CUSTOM:Copper.helmet",
+      "CUSTOM:Copper.legs",
+      "CUSTOM:CopperAxe",
+      "CUSTOM:CopperHoe",
+      "CUSTOM:CopperPickaxe",
+      "CUSTOM:CopperShovel",
+      "CUSTOM:CopperSword"
+    ]
+  },
+  "tab_element_order": {
+    "COMBAT": [
+      "CopperSword",
+      "CopperAxe",
+      "Copper"
+    ]
+  },
+  "language_map": {
+    "en_us": {
+      "subtitles.item.armor.equip_copper": "Copper armor clonks",
+      "item.liu_new_recipes.copper_leggings": "Copper  Leggings",
+      "item.liu_new_recipes.copper_chestplate": "Copper Chestplate",
+      "item.liu_new_recipes.copper_sword": "Copper Sword",
+      "item.liu_new_recipes.copper_hoe": "Copper Hoe",
+      "item.liu_new_recipes.copper_pickaxe": "Copper Pickaxe",
+      "item.liu_new_recipes.copper_helmet": "Copper Helmet",
+      "item.liu_new_recipes.copper_boots": "Copper Boots",
+      "item.liu_new_recipes.copper_nugget": "Copper Nugget",
+      "item.liu_new_recipes.copper_shovel": "Copper Shovel",
+      "item.liu_new_recipes.copper_axe": "Copper Axe"
+    },
+    "zh_cn": {
+      "subtitles.item.armor.equip_copper": "铜盔甲：哐咚",
+      "item.liu_new_recipes.copper_pickaxe": "铜镐",
+      "item.liu_new_recipes.copper_leggings": "铜护腿",
+      "item.liu_new_recipes.copper_chestplate": "铜胸甲",
+      "item.liu_new_recipes.copper_helmet": "铜头盔",
+      "item.liu_new_recipes.copper_sword": "铜剑",
+      "item.liu_new_recipes.copper_boots": "铜靴子",
+      "item.liu_new_recipes.copper_nugget": "铜粒",
+      "item.liu_new_recipes.copper_shovel": "铜锹",
+      "item.liu_new_recipes.copper_hoe": "铜锄",
+      "item.liu_new_recipes.copper_axe": "铜斧"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Recipe",
+        "children": []
+      },
+      {
+        "name": "Item",
+        "children": []
+      },
+      {
+        "name": "Block",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "liu_new_recipes",
+    "modName": "Liu\u0027s New Recipes",
+    "version": "1.1",
+    "description": "This mod adds 26.2 recipes and some items required for Forge/Fabric 1.20.1 (currently only copper tools and equipment). This allows you to play some 26.2 content directly from version 1.20.1 without downloading the higher version 26.2.",
+    "author": "Lxh2014",
+    "websiteURL": "https://www.mcmod.cn/class/28362.html",
+    "license": "MIT License",
+    "serverSideOnly": false,
+    "modPicture": "icon",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "By Lxh2014",
+    "modElementsPackage": "liu_new_recipes"
+  },
+  "mcreatorVersion": 202500113416
+}

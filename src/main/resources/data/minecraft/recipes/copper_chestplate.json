@@ -2,17 +2,17 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "pattern": [
-    "aaa",
+    "a a",
     "aaa",
     "aaa"
   ],
   "key": {
     "a": {
-      "item": "liu_new_recipes:copper_nugget"
+      "item": "minecraft:copper_ingot"
     }
   },
   "result": {
-    "item": "minecraft:copper_ingot",
+    "item": "liu_new_recipes:copper_chestplate",
     "count": 1
   }
 }

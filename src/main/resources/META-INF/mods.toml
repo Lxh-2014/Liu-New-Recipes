@@ -1,20 +1,21 @@
 modLoader="javafml"
 loaderVersion="[47,)"
-license="Not specified"
+license="MIT License"
 
 [[mods]]
-modId="new_recipes"
-version="1.0"
+modId="liu_new_recipes"
+version="1.1"
 displayName="Liu's New Recipes"
-displayURL="https://mcreator.net"
+displayURL="https://www.mcmod.cn/class/28362.html"
+logoFile="logo.png"
 credits="By Lxh2014"
 authors="Lxh2014"
-description="\u4E3A\u6E38\u620F\u589E\u52A0\u4E86\u65B0\u7248\u914D\u65B9"
+description="This mod adds 26.2 recipes and some items required for Forge/Fabric 1.20.1 (currently only copper tools and equipment). This allows you to play some 26.2 content directly from version 1.20.1 without downloading the higher version 26.2."
 
 # Start of user code block mod configuration
 # End of user code block mod configuration
 
-[[dependencies.new_recipes]]
+[[dependencies.liu_new_recipes]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.20.1]"

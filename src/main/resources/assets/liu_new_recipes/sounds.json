@@ -1,0 +1,31 @@
+{
+  "item.armor.equip_copper": {
+    "subtitle": "subtitles.item.armor.equip_copper",
+    "sounds": [
+      {
+        "name": "liu_new_recipes:equip_copper1",
+        "stream": false
+      },
+      {
+        "name": "liu_new_recipes:equip_copper2",
+        "stream": false
+      },
+      {
+        "name": "liu_new_recipes:equip_copper3",
+        "stream": false
+      },
+      {
+        "name": "liu_new_recipes:equip_copper4",
+        "stream": false
+      },
+      {
+        "name": "liu_new_recipes:equip_copper5",
+        "stream": false
+      },
+      {
+        "name": "liu_new_recipes:equip_copper6",
+        "stream": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "liu_new_recipes:copper_boots",
+    "liu_new_recipes:copper_chestplate",
+    "liu_new_recipes:copper_helmet",
+    "liu_new_recipes:copper_leggings",
+    "liu_new_recipes:copper_axe",
+    "liu_new_recipes:copper_hoe",
+    "liu_new_recipes:copper_pickaxe",
+    "liu_new_recipes:copper_shovel",
+    "liu_new_recipes:copper_sword"
+  ]
+}

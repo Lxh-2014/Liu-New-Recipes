@@ -1,6 +1,6 @@
 {
   "pack": {
     "pack_format": 15,
-    "description": "为游戏增加了新版配方"
+    "description": "This mod adds 26.2 recipes and some items required for Forge/Fabric 1.20.1 (currently only copper tools and equipment). This allows you to play some 26.2 content directly from version 1.20.1 without downloading the higher version 26.2."
   }
 }
